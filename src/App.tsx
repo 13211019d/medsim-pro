@@ -69,7 +69,7 @@ const appId = typeof __app_id !== 'undefined' ? __app_id : 'medsim-pro-id';
 // Aquí la dejamos en blanco porque el entorno de pruebas inyecta la suya.
 // Cuando subas la app a internet, pegarás la tuya aquí.
 // =====================================================================
-const apiKey = 'AIzaSyDBl_FFQ1xMTHiNSsqIij1K9yOOKTV6ZaE';
+const apiKey = 'AIzaSyBps2wUxhyqGJBR0IZ2_vv2IeX9Mil2wxo';
 
 // --- Iconos SVG ---
 const LungsIcon = ({ size = 24, className = '' }) => (
